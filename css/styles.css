@@ -1,0 +1,36 @@
+body {
+   background-color: rgb(222, 222, 238);
+}
+
+h1 {
+    background-color: rgb(147, 238, 56);
+    padding: 20px;
+    border: 8px solid rgb(12, 12, 12);
+    margin: top 150px;
+}
+
+/* control forward slash allows me to make notes */
+.box {
+    height: 100px;
+    width: 100px;
+    /* margin: auto; */
+    padding: 5px;
+    border: 3px solid rgb(12, 12, 12);
+    display: inline-block;
+}
+
+.red {
+    background-color: rgb(223, 41, 77);
+}
+
+.yellow {
+    background-color: rgb(105, 105, 27);
+}
+
+.green {
+    background-color: rgb(35, 168, 35);
+}
+
+.grey {
+    background-color: rgb(36, 28, 28);
+}
